@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #C479BB;
+}
+
+.clear-btn{
+    background-color: #060606;
+}
+
+.clear-btn:hover{
+    background-color: #000000;
+}
+
+.add-btn{
+    background-color: #32C6C4;
+}
+
+.btn{
+    opacity: 0.96;
+}
+
+.add-btn:hover{
+    background-color: #1A908E;
+}
+
+.logo{
+    width: 65px;
+    border-radius: 5px;
+    right: 180px;
+}
