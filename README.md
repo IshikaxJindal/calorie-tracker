@@ -1,7 +1,7 @@
 🥗 Calorie Tracker
 A simple and intuitive web app to track your daily calorie intake. Built to help users maintain a healthy lifestyle by logging meals, setting goals, and visualizing progress.
 
-🔗 Live Demo: calorie-tracker-8s8nj24y7-ishikas-projects-1144b4b2.vercel.app
+🔗 Live Demo: https://calorie-tracker-dusky.vercel.app/
 
 🚀 Features
 ✅ Add, update, and delete meals
